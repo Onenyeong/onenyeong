@@ -19,15 +19,11 @@
     <img src="https://img.shields.io/badge/HTML5-e16553?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Oracle-e01414?style=for-the-badge&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-0055ff?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <h4>사용하는 툴입니다.</h4>
-    <img src="https://img.shields.io/badge/Eclipse IDE-2c2056?style=flat&logo=EclipseIDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-45abf3?style=flat-square&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
     <br/>
@@ -38,13 +34,13 @@
 </div>
 <hr/>
 <p align="center">
-  <a href="https://github.com/namji95">
+  <a href="https://github.com/onenyeong">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyfact95&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/namji95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=namji95&show_icons=true&include_all_commits=true&theme=" />
+  <a href="https://github.com/onenyeong">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=onenyeong&show_icons=true&include_all_commits=true&theme=" />
   </a>
 </p>
 <div align="center" style="text-align:center">

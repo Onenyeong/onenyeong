@@ -1,13 +1,8 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=170&section=header&text=😊&fontSize=50&animation=fadeIn)
-
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=170&section=header&text=😊&fontSize=50&animation=fadeIn&background=https://example.com/your-image.jpg)
 </div>
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=700&section=header&fontSize=50&animation=fadeIn)
-
 
 <hr/>
 <div align="center">
@@ -60,4 +55,4 @@
 <div align="center">
   ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
 </div>
-</div>
+

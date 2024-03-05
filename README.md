@@ -53,6 +53,8 @@
 [![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://namji9507.tistory.com/)
 </div>
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
+
 </div>
 

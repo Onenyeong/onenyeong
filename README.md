@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=170&section=header&text=😊&fontSize=50&animation=fadeIn&background=https://example.com/your-image.jpg)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=170&section=header&text=😊&fontSize=50&animation=fadeIn)
 </div>
 
 <hr/>

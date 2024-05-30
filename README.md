@@ -11,26 +11,4 @@
 </div>
 <hr/>
 
-<hr/>
-<p align="center">
-  <a href="https://github.com/onenyeong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyfact95&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/onenyeong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=onenyeong&show_icons=true&include_all_commits=true&theme=" />
-  </a>
-</p>
-<div align="center" style="text-align:center">
-  <hr/>
-      <h3> 구경오세요! </h3>
-<p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 제 Tistory블로그 입니다. :v: </p>
-[![Tistory's GitHub stats](https://img.shields.io/badge/Tistory-FF6C37?style=flat&logo=Tistory&logoColor=white)](https://namji9507.tistory.com/)
-</div>
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
-
-</div>
 

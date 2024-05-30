@@ -10,30 +10,7 @@
   <p>항상 초보자의 시선에서 고객을 배려하는 서비스를 만들고싶습니다.</p>
 </div>
 <hr/>
-<div align="center">
-  <h2>기술 스택</h2>
-  <br/>
-  <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">
-  <br/>
-    <img src="https://img.shields.io/badge/HTML5-e16553?style=for-the-badge&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
-    <br/>
-    <img src="https://img.shields.io/badge/Oracle-e01414?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-skyblue?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-0055ff?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-  <h4>사용하는 툴입니다.</h4>
-    <img src="https://img.shields.io/badge/Visual Studio Code-45abf3?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-black?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-    <br/>
-  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=GitHub&logoColor=black"/>
-      <br/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-</div>
+
 <hr/>
 <p align="center">
   <a href="https://github.com/onenyeong">
